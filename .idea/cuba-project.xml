@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CubaProjectState">
+    <option name="hasState" value="true" />
+    <option name="cubaModelState">
+      <CubaModelState>
+        <option name="repositories">
+          <list>
+            <RepositoryModelState>
+              <option name="url" value="https://repo.maven.apache.org/maven2/" />
+              <option name="user" value="" />
+              <option name="pass" value="/awcoVvWe18=" />
+              <option name="stateVersion" value="2" />
+            </RepositoryModelState>
+            <RepositoryModelState>
+              <option name="url" value="https://plugins.gradle.org/m2/" />
+              <option name="user" value="" />
+              <option name="pass" value="/awcoVvWe18=" />
+              <option name="stateVersion" value="2" />
+            </RepositoryModelState>
+            <RepositoryModelState>
+              <option name="url" value="https://dl.bintray.com/cuba-platform/main" />
+              <option name="user" value="" />
+              <option name="pass" value="/awcoVvWe18=" />
+              <option name="stateVersion" value="2" />
+            </RepositoryModelState>
+            <RepositoryModelState>
+              <option name="url" value="https://jcenter.bintray.com/" />
+              <option name="user" value="" />
+              <option name="pass" value="/awcoVvWe18=" />
+              <option name="stateVersion" value="2" />
+            </RepositoryModelState>
+          </list>
+        </option>
+        <option name="appComponents">
+          <list>
+            <DependencyModelState>
+              <option name="group" value="com.haulmont.cuba" />
+              <option name="name" value="cuba-global" />
+              <option name="version" value="7.2.11" />
+            </DependencyModelState>
+            <DependencyModelState>
+              <option name="group" value="com.haulmont.addon.restapi" />
+              <option name="name" value="restapi-global" />
+              <option name="version" value="7.2.3" />
+            </DependencyModelState>
+          </list>
+        </option>
+        <option name="mavenLocal" value="true" />
+        <option name="artifactGroup" value="com.bitsolution.addons.simple.cuba.jpa.repositories" />
+        <option name="artifactVersion" value="0.1.1" />
+        <option name="tomcatDir" value="D:\cuba\simple-cuba-jpa-repositories/deploy/tomcat" />
+        <option name="gradleVersion" value="4.10.3" />
+        <option name="oracleSystemCredentials">
+          <map>
+            <entry key="_MAIN_">
+              <value>
+                <OracleSystemCredentialsModelState>
+                  <option name="systemUser" value="system" />
+                  <option name="systemPassword" value="manager" />
+                </OracleSystemCredentialsModelState>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="gradlePluginJarPath" value="C:\Users\Much Tri Wibowo\.gradle\caches\modules-2\files-2.1\com.haulmont.gradle\cuba-plugin\7.2.11\c9362c63dff490bbb49d870b98c138c371abc78a\cuba-plugin-7.2.11.jar" />
+        <option name="projectPath" value="D:\cuba\simple-cuba-jpa-repositories" />
+      </CubaModelState>
+    </option>
+    <option name="dbArtifacts">
+      <map>
+        <entry key="com.haulmont.addon.restapi" value="C:\Users\Much Tri Wibowo\.gradle\caches\modules-2\files-2.1\com.haulmont.addon.restapi\restapi-core\7.2.3\827a4c4c8624a72dc5302a83fe0ab29ee148f148\restapi-core-7.2.3-db.zip" />
+        <entry key="com.haulmont.cuba" value="C:\Users\Much Tri Wibowo\.gradle\caches\modules-2\files-2.1\com.haulmont.cuba\cuba-core\7.2.11\719bcff65c1686eff8a8cc2d1b2c44013a93d589\cuba-core-7.2.11-db.zip" />
+      </map>
+    </option>
+    <option name="gradleFilesCRC" value="2081089133" />
+  </component>
+</project>
